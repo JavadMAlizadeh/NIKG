@@ -1,4 +1,4 @@
-OBJ,zipcode,date,time,race,sex,age,wound,is_officer_involved,is_offender_deceased,is_offender_injured,is_fatal
+ID,zipcode,date,time,race,sex,age,wound,is_officer_involved,is_offender_deceased,is_offender_injured,is_fatal
 OBJ_11865701,19136,3/18/21,2-Jan,B,M,20,Multiple,N,N,N,1
 OBJ_11865702,19154,3/29/21,17-18,B,M,21,Chest,N,N,N,1
 OBJ_11865703,19136,5/15/21,9-Aug,B,F,33,Buttocks,N,N,N,0
